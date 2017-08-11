@@ -1,3 +1,2 @@
 # web-crawler
-node爬虫
-一个简单的爬虫
+nodejs的一个简单爬虫
